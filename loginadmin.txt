@@ -1,0 +1,5 @@
+Untuk Halaman Login Admin :
+
+username = rizalfirman
+password = 12345
+	
